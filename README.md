@@ -1,4 +1,4 @@
-# Hi!! I'm Jeff/ery 👋
+# Hello!!! I'm Jeff/ery 👋
 **I'm a software developer with a penchant for solving unique problems in creative ways.**
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffery-zhan/)](https://www.linkedin.com/in/jeffery-zhan/)
