@@ -1,4 +1,4 @@
-### Hi!! I'm Jeff(ery) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi!! I'm Jeff/ery 👋
 **I'm a software developer with a penchant for solving unique problems in creative ways.**
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffery-zhan/)](https://www.linkedin.com/in/jeffery-zhan/)
@@ -8,11 +8,17 @@
 - :writing_hand: Currently learning Java and new web frameworks 
 - :eyes: I am seeking Summer 2023 internships!
 
-The past year, I worked as a developer for both SR Research Ltd. and UofT Blueprint. 
-
-- :art: An artist on the side - I've mostly transitioned to digital now
-- :heart: I also love to listen to (lots of) music :headphones:, work out 🏋️, and read novels/manga) :book:
+This past year, I worked as a developer for both SR Research Ltd. and UofT Blueprint. 
 
 <img align='center' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffzhan&layout=compact&theme=vue-dark">
 
+## other very important things
+- :art: an artist on the side - i've mostly transitioned to digital now
+- :heart: i also love to listen to (lots of) music :headphones:, work out 🏋️, and read novels/manga) :book:
+
+(my art socials 🥰)
+
+[![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/boko_art/)](https://instagram.com/boko_art)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/BOKOart/)](https://twitter.com/BOKOart)
+##
 ![](https://komarev.com/ghpvc/?username=jeffzhan&color=33FFBB)
