@@ -22,8 +22,8 @@ This past year, I worked as a developer for both SR Research Ltd. and UofT Bluep
 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/BOKOart/)](https://twitter.com/BOKOart)
 ##
 
-<sup> i have refreshed the page this many times: </sup>
-
 ![](https://komarev.com/ghpvc/?username=jeffzhan&color=33FFBB)
+
+<sup> I have refreshed the page this many times :D </sup>
 
 
