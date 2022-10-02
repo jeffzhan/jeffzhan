@@ -14,7 +14,7 @@ This past year, I worked as a developer for both SR Research Ltd. and UofT Bluep
 
 ## other very important things
 - :art: an artist on the side - i've mostly transitioned to digital now
-- :heart: i also love to listen to (lots of) music :headphones:, work out 🏋️, and read novels/manga) :book:
+- :heart: i also love to listen to (lots of) music :headphones:, work out 🏋️, and read novels/manga :book:
 
 (my art socials 🥰)
 
