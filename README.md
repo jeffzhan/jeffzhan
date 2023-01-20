@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jefferyzhan84@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferyzhan84@gmail.com)](mailto:jefferyzhan84@gmail.com)
 
 - :mortar_board: Sophomore student at the University of Toronto (St. George) majoring in Computer Science
-- :writing_hand: Currently learning Java and new web frameworks 
+- :writing_hand: Currently learning C and new web frameworks 
 - :eyes: I am seeking Summer 2023 internships!
 
 This past year, I worked as a developer for both SR Research Ltd. and UofT Blueprint. 
