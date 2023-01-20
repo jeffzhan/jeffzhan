@@ -8,7 +8,7 @@
 - :writing_hand: Currently learning C and new web frameworks 
 - :eyes: I am seeking Summer 2023 internships!
 
-In 2022, I worked as a developer for both SR Research Ltd. and UofT Blueprint. 
+In 2022, I worked as a software developer for SR Research Ltd. and UofT Blueprint. 
 
 <img align='center' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffzhan&layout=compact&theme=vue-dark">
 
