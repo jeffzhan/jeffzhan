@@ -1,14 +1,14 @@
-# Hello!!! I'm Jeff/ery 👋
+# Hello!!!!!!!!!!!!!!!!!! I'm Jeff/ery 👋
 **I'm a software developer with a penchant for solving unique problems in creative ways.**
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffery-zhan/)](https://www.linkedin.com/in/jeffery-zhan/)
 [![Gmail Badge](https://img.shields.io/badge/-jefferyzhan84@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferyzhan84@gmail.com)](mailto:jefferyzhan84@gmail.com)
 
-- :mortar_board: Sophomore student at the University of Toronto (St. George) majoring in Computer Science
-- :writing_hand: Currently learning C and new web frameworks 
-- :eyes: I am seeking Summer 2023 internships!
+- :mortar_board: Junior student at the University of Toronto (St. George) majoring in Computer Science
+- :writing_hand: Currently learning Typescript
+- :eyes: Seeking Summer 2024 internships!
 
-In 2022, I worked as a software developer at SR Research Ltd. and UofT Blueprint. 
+I am currently a fullstack developer intern at Temerity Analytics. I have also worked as a software developer at SR Research Ltd. and UofT Blueprint. 
 
 <img align='center' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffzhan&layout=compact&theme=vue-dark">
 
