@@ -19,7 +19,7 @@ I am currently a fullstack developer intern at Temerity Analytics. I have also w
 (my art socials 🥰)
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/boko_art/)](https://instagram.com/boko_art)
-[![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/BOKOart/)](https://twitter.com/BOKO_art)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/BOKO_twt/)](https://twitter.com/BOKO_twt)
 ##
 
 ![](https://komarev.com/ghpvc/?username=jeffzhan&color=33FFBB)
