@@ -14,7 +14,7 @@
 
 ## Fun Facts!!!!!!!!!
 - I am currently working at AMD
-- I like [drawing cool stuff too](https://twitter.com/BOKO_twt) 🥰
+- I like [drawing cool stuff too](https://twitter.com/b0faking) 🥰
 - I also listen to [cool music](https://open.spotify.com/user/12181977629?si=a0d530d2eee04d8d)
 - Otherwise, I will be working out or doing something else cool 🤔
 ##
