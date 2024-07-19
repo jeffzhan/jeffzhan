@@ -9,11 +9,11 @@
 [![Instagram Badge](https://img.shields.io/badge/@jeffzhan_-f5307d?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jeffzhan_/)
 
 - :mortar_board: Junior student at the University of Toronto majoring in Computer Science
-- :writing_hand: Currently learning Typescript
-- :eyes: Seeking Summer 2024 internships!
+- :writing_hand: Currently learning SystemVerilog
+- :eyes: Seeking Summer 2025 internships!
 
 ## Fun Facts!!!!!!!!!
-- I am currently full-stacking at Temerity Analytics
+- I am currently working at AMD
 - I like [drawing cool stuff too](https://twitter.com/BOKO_twt) 🥰
 - I also listen to [cool music](https://open.spotify.com/user/12181977629?si=a0d530d2eee04d8d)
 - Otherwise, I will be working out or doing something else cool 🤔
